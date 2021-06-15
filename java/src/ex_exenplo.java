@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class EX_01 {
+public class ex_exenplo {
     
     public static void main(String[] args) {
         

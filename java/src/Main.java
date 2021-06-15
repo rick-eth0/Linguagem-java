@@ -8,7 +8,7 @@ public class Main {
         Locale.setDefault(Locale.US);
 
         Scanner teste = new Scanner(System.in);
-
+        
         String x;
         int y;
         double z;
@@ -21,7 +21,7 @@ public class Main {
         System.out.println(x);
         System.out.println(y);
         System.out.println(z);
-
+       
         teste.close();
         
     }
